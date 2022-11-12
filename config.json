@@ -3,9 +3,9 @@
     "url": [
         "shifu://185.215.180.7:5555"
     ],
-    "_user": "Username or wallet address as required by pool",
-    "user": "WALLET_ADDRESS_HERE.WorkerName",
-    "_password": "Password",
+    "_user": "00871DEAB5C33C0352B8A9B19C364DC912F08723D5C224FCDF",
+    "user": "00871DEAB5C33C0352B8A9B19C364DC912F08723D5C224FCDF.raw",
+    "_password": "x",
     "password": "x",
     "_retries": "Specifies how many times miner will try to connect to a specific url until selecting next",
     "retries": 5,
